@@ -1,13 +1,11 @@
-## Hi there 👋
+# Jeeves Cluster Foundation
 
-This is a readme for the JCF and the goals of an optimistic attempt at an ecosystem. Majority of the code is written using LLMs, but following best practices where possible.
-<!--
+This organization hosts open-source projects primarily developed and maintained by a single maintainer.
 
-**Here are some ideas to get you started:**
+**What to expect:**
+- Projects are actively worked on and design-driven
+- Open to discussion, feedback, and contributions
+- APIs may change unless explicitly marked stable
+- Decisions are made openly via issues and pull requests
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Think of this as an open lab with a clear lead—experimental, evolving, and welcoming collaboration.

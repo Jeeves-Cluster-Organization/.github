@@ -1,0 +1,25 @@
+name: Design discussion
+description: Propose or discuss a design decision
+labels: ["design"]
+body:
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: Why is this worth discussing?
+    validations:
+      required: true
+  - type: textarea
+    id: current-thinking
+    attributes:
+      label: Current thinking
+      description: Your current approach or proposal
+    validations:
+      required: true
+  - type: textarea
+    id: open-questions
+    attributes:
+      label: Open questions
+      description: Uncertainties or trade-offs to consider
+    validations:
+      required: false
